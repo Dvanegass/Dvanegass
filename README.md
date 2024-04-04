@@ -17,7 +17,7 @@ Focused in computational astrophysics, numerical relativity and Deep Learning.
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%238e7cc3?style=plastic&logo=scikitlearn&logoColor=orange)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-%2316537e?style=plastic&logo=pytorch)]()
 
-* Packages and tool: <br/>
+* Packages and tools: <br/>
   [![Git](https://img.shields.io/badge/Git-grey?style=plastic&logo=git)]()
   [![Linux](https://img.shields.io/badge/Linux-%238e7cc3?style=plastic&logo=linux&logoColor=black)]()
   [![Jupyter](https://img.shields.io/badge/Jupyter-%2316537e?style=plastic&logo=jupyter)]()
