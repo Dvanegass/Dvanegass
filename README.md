@@ -8,7 +8,7 @@ Focused in computational astrophysics, numerical relativity and Deep Learning.
 - How to reach me: dvanegass@unal.edu.co
 
 ## Programming
-
+* Languages: <br/>
 [![Python](https://img.shields.io/badge/Python-grey?style=plastic&logo=python)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-%238e7cc3?style=plastic&logo=cplusplus)]()
 
