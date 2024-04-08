@@ -18,11 +18,11 @@ Focused in computational astrophysics, numerical relativity and Deep Learning.
 [![PyTorch](https://img.shields.io/badge/PyTorch-%2316537e?style=plastic&logo=pytorch)]()
 
 * Packages and tools: <br/>
-  [![Git](https://img.shields.io/badge/Git-grey?style=plastic&logo=git)]()
-  [![Linux](https://img.shields.io/badge/Linux-%238e7cc3?style=plastic&logo=linux&logoColor=black)]()
-  [![Jupyter](https://img.shields.io/badge/Jupyter-%2316537e?style=plastic&logo=jupyter)]()
+  [![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-grey?style=plastic&logo=jupyter)]()
+  [![Linux](https://img.shields.io/badge/GNU%20Linux-%238e7cc3?style=plastic&logo=linux&logoColor=black)]()
+  [![Emacs](https://img.shields.io/badge/GNU%20Emacs-%2316537e?style=plastic&logo=gnuemacs&logoColor=black)]()
   [![LaTeX](https://img.shields.io/badge/LaTeX-%23226002?style=plastic&logo=latex)]()
-  [![Emacs](https://img.shields.io/badge/GNU%20Emacs-%23a64d79?style=plastic&logo=gnuemacs&logoColor=black)]()
+  [![Git](https://img.shields.io/badge/Git-%23ac1660?style=plastic&logo=git)]()
 
 <!--
 **Dvanegass/Dvanegass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
