@@ -3,7 +3,7 @@
 ## About me
 
 - Undergraduate physics student at Universidad Nacional de Colombia.
-Focused in computational astrophysics, numerical relativity and Deep Learning.
+Focused in Computational Astrophysics and Deep Learning.
 - Currently working on Neural Networks applied to gravitational lensing image classification.
 - How to reach me: dvanegass@unal.edu.co
 
